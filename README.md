@@ -1,5 +1,8 @@
 # Top-Services
 
+<p align="left">
+  Top Services application is one of the applications in the field of providing hourly cleaning services for homes and companies. This application is programmed with Flutter framework ,for android, ios app as well as Desktop app for Admin.
+</p>
 
 ## Contributors ✨
 
