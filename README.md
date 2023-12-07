@@ -7,7 +7,7 @@
 ## Installation
 <a href="[https://play.google.com/store/apps/details?id=com.alhaddafcommunity.co](https://play.google.com/store/apps/details?id=com.aoun_service.H&fbclid=IwAR0e5GZrkurgNPQEQgaqA4ij7eOwjVnsO_OWAyY-izApQTJ3p88sM0-KrMg)&hl=ar&gl=US"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" width="200"></img></a>
 
-<a href="https://apps.apple.com/us/app/top-%D8%AA%D9%88%D8%A8/id6473125859 &hl=ar&gl=US"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Available_on_the_App_Store_%28black%29_SVG.svg/640px-Available_on_the_App_Store_%28black%29_SVG.svg.png" width="200"></img></a>
+<a href="[https://apps.apple.com/us/app/top-%D8%AA%D9%88%D8%A8/id6473125859](https://apps.apple.com/us/app/top-%D8%AA%D9%88%D8%A8/id6473125859) &hl=ar&gl=US"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Available_on_the_App_Store_%28black%29_SVG.svg/640px-Available_on_the_App_Store_%28black%29_SVG.svg.png" width="200"></img></a>
 
 ## Contributors ✨
 
